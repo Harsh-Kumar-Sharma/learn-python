@@ -8,6 +8,7 @@ print(fruits)  # ['banana', 'orange', 'mango', 'lemon
 numbers = [1, 2, 3, 4, 5]  # creating a list of numbers
 print(numbers)  # [1, 2, 3, 4, 5]
 
+
 mixed_data_types = ['Asabeneh', 250, True, [1, 2, 3], {'country': 'Finland', 'city': 'Helsinki'}]  # creating a list of mixed data types
 print(mixed_data_types)  # ['Asabeneh', 250, True, [1, 2, 3], {'country': 'Finland', 'city': 'Helsinki'}]
 
