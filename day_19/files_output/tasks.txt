@@ -1,0 +1,3 @@
+Complete Python practice
+Revise file handling
+Build mini project
